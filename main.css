@@ -1,12 +1,13 @@
+
 header {
     background-color: rgb(82, 179, 82);
-    display: grid;
+    display: grid; /*displays the content as a grid layout*/
     grid-template-columns: 1fr 2fr 1fr;
     margin-left: 10px;
     margin-right: 10px;
     margin-bottom: 5px;
 }
-
+/*Grid layouts can be more than just 3 columns, you can have multiple columns in one area to split information up or the layout of the page*/
 main {
     background-color: rgb(88, 88, 231);
     display: grid;
