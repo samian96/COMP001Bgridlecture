@@ -1,0 +1,25 @@
+header {
+    background-color: green;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+main {
+    background-color: blue;
+    display: grid;
+    grid-template-columns: auto;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+footer {
+    background-color: blueviolet;
+    display: grid;
+    grid-template-columns: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
